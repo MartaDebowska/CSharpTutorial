@@ -20,6 +20,9 @@
             Console.WriteLine(true);
             Console.WriteLine(false);
 
+
+            string firstName = "Bob";
+            Console.WriteLine(firstName);
         }
     }
 }
